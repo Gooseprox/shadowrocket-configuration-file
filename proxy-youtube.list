@@ -1,7 +1,7 @@
-# NAME: Proxy
-# AUTHOR: Misha Tugushev
-# REPO: https://github.com/misha-tgshv/shadowrocket-configuration-file
-# UPDATED: 2024-08-05 13:55:00
+# NAME, Proxy
+# AUTHOR, Misha Tugushev
+# REPO, https,//github.com/misha-tgshv/shadowrocket-configuration-file
+# UPDATED, 2024-08-05 13,55,00
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,aol.com
@@ -58,3 +58,13 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,kahoot
 DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,youtube.com
+DOMAIN-KEYWORD,youtube.ru 
+DOMAIN-KEYWORD,yuotu.be
+DOMAIN-KEYWORD,googlevideo.com
+DOMAIN-KEYWORD,play.google.com
+DOMAIN-KEYWORD,googleapis.com
+DOMAIN-KEYWORD,ggpht.com
+DOMAIN-KEYWORD,ytimg.com
+DOMAIN-KEYWORD,googleusercontent.com
+DOMAIN-KEYWORD,gstatic.com
